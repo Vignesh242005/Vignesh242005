@@ -1,4 +1,4 @@
-👋 Hi there! I'm Vignesh, a 3rd year AIE student. 
+👋 Hi there! I'm Vignesh, a 4th year AIE student. 
 - 👀 I’m interested in WebDevelopment.
 - 🌱 I’m currently learning Deep learning and Data Science.
 - 📫 How to reach me: vigneshshiva096@gmail.com 
